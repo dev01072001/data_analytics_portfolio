@@ -31,7 +31,7 @@ This portfolio includes the following projects:
 
    **Link to Code:**https://github.com/dev01072001/FIFA-19-Players-Analysis
 
-3. **Superstore Data Analysis using Tableau**
+2. **Superstore Data Analysis using Tableau**
    **Overview:** This project involves analyzing superstore sales data to uncover crucial insights for business development. Using Tableau, I created dynamic visualization dashboards 
                    and stories that highlight key performance indicators, trends, and opportunities for growth. The analysis aims to support strategic decision-making processes within 
                    the organization.
@@ -68,16 +68,18 @@ Complexity of Insights: Ensuring that visualizations communicated insights clear
 
  **Link to Code:** [GitHub Repository](link-to-your-project)
 
-4. **[Project Title 3]**
+3. **Data Analytics and Visualization Job Simulation**
    - **Overview:**In this simulation,My work aimed to inform strategic decision-making for content development and optimization.which was achieved following these steps
    -  Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture.
    - Cleaned, modelled and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions.
    - Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders
+     
    - **Technologies Used:** Advanced MS Excel, Powerpoint Presentation
-   - **Key Findings:** You can find my key findings in the link 
+     
+   - **Key Findings:** You can find my key findings and all documents related to simulation in the link https://github.com/dev01072001/Data-Analytics-and-Visualization-Job-Simulation
  
 
-## Skills
+**Skills:**
 
 Communication
 Data Analysis
@@ -90,6 +92,58 @@ Public Speaking
 Storytelling
 Strategy
 Teamwork
+
+4. **Tata Data Visualization: Empowering Business with Effective Insights**
+   
+   - **Overview:**In this simulation,My work aimed to inform strategic decision-making for content development and optimization.which was achieved following these steps
+   Completed a simulation involving creating data visualizations for Tata Consultancy Services
+   Prepared questions for a meeting with client senior leadership
+   Created visuals for data analysis to help executives with effective decision making
+ 
+   - **Technologies Used:** Power BI, MS Excel
+     
+   - **Key Findings:**After cleaning the data, we used clear visuals to present our findings effectively using Microsoft power BI
+1 Monthly and Seasonal Revenue Trends
+•	2011 Revenue Overview:
+o	Start of Year: Revenue started at $0.69M.
+o	Fluctuations: Revenue fluctuated, with lows in February and highs in March.
+o	Stability and Growth: From May to August, revenue was stable.
+o	Significant Increase: After August, revenue grew each month, reaching $1.51M by November before falling to $0.64M in December.
+Conclusion: Revenue was unpredictable in the first quarter, stable in the middle, and grew steadily in the last quarter until November.
+Expansion Idea: To leverage these trends, consider running targeted marketing campaigns in the first quarter to smooth out revenue fluctuations. Additionally, boost sales efforts before November to take advantage of the revenue growth period.
+2. Top Revenue-Generating Countries
+•	Excluding the USA:
+o	Netherlands: The top performer with $276,661.86 in revenue and 194,000 items sold.
+o	Top 4 Countries: Netherlands, Ireland, Germany, and France lead in revenue and sales.
+Opportunity: These markets are performing well, so focus on expanding our presence there.
+Expansion Idea: Develop targeted strategies for each of these countries, such as localized promotions and partnerships, to further increase sales.
+3. Top Revenue-Generating Customers
+•	Top Customer: Customer ID 14646 has generated the highest revenue.
+Strategy: Provide special offers, discounts, and rewards to these top customers to keep them loyal and encourage positive word-of-mouth.
+Expansion Idea: Create a loyalty program or exclusive customer club to reward top customers and attract similar high-value clients.
+4.  Demand Visualization
+•	Map Plot Analysis:
+o	Bubble Size: Represents sales volume; larger bubbles show higher demand.
+Action Plan:
+•	Increase activities in regions with larger bubbles to meet high demand.
+•	Apply new marketing strategies in regions with smaller bubbles to boost sales.
+you can find visualizations in link below
+
+**Github LInk**-
+   -**Skills:**
+   Analysis & Presentation
+Analytics & Insights
+Charts & Graphs
+Dashboard
+Data Analysis
+Data Cleanup
+Data Interpretation
+Data Visualisation
+Effective Communication
+Visual Basics
+Visualisation
+
+
 ## Contact
 
 Feel free to reach out to me for any collaboration, questions, or opportunities:
