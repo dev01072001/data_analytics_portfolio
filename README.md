@@ -27,7 +27,7 @@ This portfolio includes the following projects:
    
    Player having Highest wage:  The highest-waged player is Lionel Messi which is 565000.
    
-                 For a complete overview of the analysis, please refer to the SQL file for all questions and their detailed answers.
+   For a complete overview of the analysis, please refer to the SQL file for all questions and their detailed answers.
 
    **Link to Code:** [GitHub Repository](link-to-your-project)
 
