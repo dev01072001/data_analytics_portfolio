@@ -29,7 +29,7 @@ This portfolio includes the following projects:
    
    For a complete overview of the analysis, please refer to the SQL file for all questions and their detailed answers.
 
-   **Link to Code:**(https://github.com/dev01072001/FIFA-19-Players-Analysis/blob/3c250735d3efbee83dc20de0ff5aad31b84bd1db/4.sql)
+   **Link to Code:**https://github.com/dev01072001/FIFA-19-Players-Analysis
 
 3. **[Project Title 2]**
    - **Overview:** Brief description of the project.
