@@ -81,16 +81,16 @@ Complexity of Insights: Ensuring that visualizations communicated insights clear
 
 **Skills:**
 
-Communication
-Data Analysis
-Data Modeling
-Data Understanding
-Data Visualization
-Presentations
-Project Planning
-Public Speaking
-Storytelling
-Strategy
+Communication,
+Data Analysis,
+Data Modeling,
+Data Understanding,
+Data Visualization,
+Presentations,
+Project Planning,
+Public Speaking,
+Storytelling,
+Strategy &
 Teamwork
 
 4. **Tata Data Visualization: Empowering Business with Effective Insights**
@@ -100,9 +100,10 @@ Teamwork
    Prepared questions for a meeting with client senior leadership
    Created visuals for data analysis to help executives with effective decision making
  
-   - **Technologies Used:** Power BI, MS Excel
+   - **Technologies Used:** Power BI, MS Excel, Tableau
      
    - **Key Findings:**After cleaning the data, we used clear visuals to present our findings effectively using Microsoft power BI
+     
 1 Monthly and Seasonal Revenue Trends
 •	2011 Revenue Overview:
 o	Start of Year: Revenue started at $0.69M.
@@ -111,16 +112,19 @@ o	Stability and Growth: From May to August, revenue was stable.
 o	Significant Increase: After August, revenue grew each month, reaching $1.51M by November before falling to $0.64M in December.
 Conclusion: Revenue was unpredictable in the first quarter, stable in the middle, and grew steadily in the last quarter until November.
 Expansion Idea: To leverage these trends, consider running targeted marketing campaigns in the first quarter to smooth out revenue fluctuations. Additionally, boost sales efforts before November to take advantage of the revenue growth period.
+
 2. Top Revenue-Generating Countries
 •	Excluding the USA:
 o	Netherlands: The top performer with $276,661.86 in revenue and 194,000 items sold.
 o	Top 4 Countries: Netherlands, Ireland, Germany, and France lead in revenue and sales.
 Opportunity: These markets are performing well, so focus on expanding our presence there.
 Expansion Idea: Develop targeted strategies for each of these countries, such as localized promotions and partnerships, to further increase sales.
+
 3. Top Revenue-Generating Customers
 •	Top Customer: Customer ID 14646 has generated the highest revenue.
 Strategy: Provide special offers, discounts, and rewards to these top customers to keep them loyal and encourage positive word-of-mouth.
 Expansion Idea: Create a loyalty program or exclusive customer club to reward top customers and attract similar high-value clients.
+
 4.  Demand Visualization
 •	Map Plot Analysis:
 o	Bubble Size: Represents sales volume; larger bubbles show higher demand.
@@ -129,18 +133,19 @@ Action Plan:
 •	Apply new marketing strategies in regions with smaller bubbles to boost sales.
 you can find visualizations in link below
 
-**Github LInk**-
-   -**Skills:**
-   Analysis & Presentation
-Analytics & Insights
-Charts & Graphs
-Dashboard
-Data Analysis
-Data Cleanup
-Data Interpretation
-Data Visualisation
-Effective Communication
-Visual Basics
+**Github LInk**-https://github.com/dev01072001/Tata-Data-Visualization-Empowering-Business-with-Effective-Insights
+**Skills:**
+
+Analysis & Presentation,
+Analytics & Insights,
+Charts & Graphs,
+Dashboard,
+Data Analysis,
+Data Cleanup,
+Data Interpretation,
+Data Visualisation,
+Effective Communication,
+Visual Basics &
 Visualisation
 
 
@@ -148,7 +153,7 @@ Visualisation
 
 Feel free to reach out to me for any collaboration, questions, or opportunities:
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [LinkedIn Profile](link-to-your-linkedin)
+- **Email:** ddevSharma2001@gmail.com
+- **LinkedIn:**www.linkedin.com/in/dev-sharma-07a328322
 
 Thank you for visiting my portfolio! I look forward to connecting with you.
