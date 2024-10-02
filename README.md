@@ -37,17 +37,20 @@ This portfolio includes the following projects:
                    the organization.
      
   **Objectives:**
-To visualize sales performance across various dimensions (e.g., region, product category, time).
-To identify trends in customer behavior and purchasing patterns.
-To highlight areas for improvement in sales and inventory management.
-To facilitate data-driven decision-making for business development.
+  
+   To visualize sales performance across various dimensions (e.g., region, product category, time).
+   To identify trends in customer behavior and purchasing patterns.
+   To highlight areas for improvement in sales and inventory management.
+   To facilitate data-driven decision-making for business development.
 
 **Technologies Used:**
-Tableau: For creating dynamic visualizations and interactive dashboards.
-Excel: For data cleaning and preparation (if applicable).
-Data Source: Superstore sales dataset.
+
+   Tableau: For creating dynamic visualizations and interactive dashboards.
+   Excel: For data cleaning and preparation (if applicable).
+   Data Source: Superstore sales dataset.
 
 **Key Findings**
+
 The analysis produced several key insights, including:
 
 Sales Trends: Identified peak sales periods, showing a significant increase during holiday seasons.
@@ -57,19 +60,22 @@ Customer Segmentation: Analyzed customer purchasing behavior, revealing distinct
 Profit Margins: Assessed profit margins across different products and categories, identifying opportunities to increase profitability.
 
 **Dashboard Features**
+
 Sales Overview: A dashboard displaying total sales, profits, and order counts over time.
 Regional Analysis: A map visualization illustrating sales distribution by region.
 Product Performance: A breakdown of sales and profit by product category and sub-category.
 Customer Insights: Visualizations that segment customers based on their purchasing habits.
 
 **Challenges Faced**
+
 Data Quality: Encountered issues with missing or inconsistent data, which required thorough cleaning and validation.
 Complexity of Insights: Ensuring that visualizations communicated insights clearly to stakeholders was challenging but rewarding.
 
- **Link to Code:** [GitHub Repository](link-to-your-project)
+ **Link to Code:**(https://github.com/dev01072001/Superstore-Data-Analysis)
 
 3. **Data Analytics and Visualization Job Simulation**
-   - **Overview:**In this simulation,My work aimed to inform strategic decision-making for content development and optimization.which was achieved following these steps
+   - **Overview:**
+   - In this simulation,My work aimed to inform strategic decision-making for content development and optimization.which was achieved following these steps
    -  Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture.
    - Cleaned, modelled and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions.
    - Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders
@@ -95,7 +101,8 @@ Teamwork
 
 4. **Tata Data Visualization: Empowering Business with Effective Insights**
    
-   - **Overview:**In this simulation,My work aimed to inform strategic decision-making for content development and optimization.which was achieved following these steps
+   **Overview:**
+   In this simulation,My work aimed to inform strategic decision-making for content development and optimization.which was achieved following these steps
    Completed a simulation involving creating data visualizations for Tata Consultancy Services
    Prepared questions for a meeting with client senior leadership
    Created visuals for data analysis to help executives with effective decision making
@@ -105,6 +112,7 @@ Teamwork
    - **Key Findings:**After cleaning the data, we used clear visuals to present our findings effectively using Microsoft power BI
      
 1 Monthly and Seasonal Revenue Trends
+
 •	2011 Revenue Overview:
 o	Start of Year: Revenue started at $0.69M.
 o	Fluctuations: Revenue fluctuated, with lows in February and highs in March.
@@ -114,6 +122,7 @@ Conclusion: Revenue was unpredictable in the first quarter, stable in the middle
 Expansion Idea: To leverage these trends, consider running targeted marketing campaigns in the first quarter to smooth out revenue fluctuations. Additionally, boost sales efforts before November to take advantage of the revenue growth period.
 
 2. Top Revenue-Generating Countries
+   
 •	Excluding the USA:
 o	Netherlands: The top performer with $276,661.86 in revenue and 194,000 items sold.
 o	Top 4 Countries: Netherlands, Ireland, Germany, and France lead in revenue and sales.
@@ -121,11 +130,13 @@ Opportunity: These markets are performing well, so focus on expanding our presen
 Expansion Idea: Develop targeted strategies for each of these countries, such as localized promotions and partnerships, to further increase sales.
 
 3. Top Revenue-Generating Customers
+   
 •	Top Customer: Customer ID 14646 has generated the highest revenue.
 Strategy: Provide special offers, discounts, and rewards to these top customers to keep them loyal and encourage positive word-of-mouth.
 Expansion Idea: Create a loyalty program or exclusive customer club to reward top customers and attract similar high-value clients.
 
 4.  Demand Visualization
+   
 •	Map Plot Analysis:
 o	Bubble Size: Represents sales volume; larger bubbles show higher demand.
 Action Plan:
@@ -134,6 +145,7 @@ Action Plan:
 you can find visualizations in link below
 
 **Github LInk**-https://github.com/dev01072001/Tata-Data-Visualization-Empowering-Business-with-Effective-Insights
+
 **Skills:**
 
 Analysis & Presentation,
