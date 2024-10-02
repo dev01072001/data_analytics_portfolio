@@ -22,8 +22,11 @@ This portfolio includes the following projects:
    **Key Findings:** This analysis addresses 15 specific questions regarding the FIFA 19 players dataset, with all queries and their results detailed in the attached SQL file in github 
                 repository linked below. Below are a few key examples of the findings:
    Top Players: The highest-rated player is Lionel Messi, followed closely by Cristiano Ronaldo.
-   Top 3 Nationalities by number of players:England, Germany, Spain 
+   
+   Top 3 Nationalities by number of players:England, Germany, Spain
+   
    Player having Highest wage:  The highest-waged player is Lionel Messi which is 565000.
+   
                  For a complete overview of the analysis, please refer to the SQL file for all questions and their detailed answers.
 
    **Link to Code:** [GitHub Repository](link-to-your-project)
