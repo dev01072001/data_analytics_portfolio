@@ -65,7 +65,7 @@ Top Directors: A visualization highlighting the contributions of the top directo
 **Challenges Faced**
 Data Quality: Addressed issues related to duplicate and null values, which required thorough cleaning.
 Complex Insights: Ensuring that visualizations effectively communicated insights to stakeholders was a rewarding challenge.
-Link to Code: GitHub Repository
+Link to Code: https://github.com/dev01072001/Netflix-movies-and-TV-Shows-_data-Analysis
 
 
 2. **Fifa-19 Players-Data Analysis**
