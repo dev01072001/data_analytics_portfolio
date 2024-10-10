@@ -10,7 +10,65 @@ I hold a degree in B.Tech from College of Technology and Engineeering, Udaipur, 
 
 This portfolio includes the following projects:
 
-1. **Fifa-19 Players-Data Analysis**
+1. **Netflix Movies and TV Shows Data Analysis using Python**
+Overview: This project focuses on analyzing a dataset of Netflix movies and TV shows to extract meaningful insights regarding viewing trends, genre popularity, and release patterns. Using Python and its data analysis libraries, I created visualizations to illustrate key performance indicators and trends, supporting data-driven decision-making in the entertainment sector.
+
+**Objectives:**
+
+To identify and remove any duplicate records in the dataset.
+To check for null values in any column and visualize the findings with a heatmap.
+To explore specific titles, such as determining the Show ID and director for "House of Cards."
+To analyze the year with the highest number of releases and present the findings with a bar graph.
+To count the total number of movies and TV shows in the dataset, displaying the results visually.
+To extract all movies released in the year 2000.
+To compile a list of TV show titles released exclusively in India.
+To identify the top 10 directors who contributed the most movies and TV shows to Netflix.
+To filter records based on specific criteria, such as category and type.
+To assess the number of appearances by Tom Cruise in the dataset.
+To catalog the different ratings defined by Netflix and analyze specific rating metrics.
+To investigate the maximum duration of any movie or show on Netflix.
+To find out which country has the highest number of TV shows.
+To demonstrate how to sort the dataset by release year.
+To locate instances of specific categories and types within the dataset.
+
+**Technologies Used:**
+Python: For data analysis and visualization.
+Pandas: For data manipulation and analysis.
+Matplotlib/Seaborn: For creating visualizations.
+Jupyter Notebook: For interactive coding and documentation.
+Data Source: Netflix Movies and TV Shows dataset from Kaggle.
+
+**Key Findings**
+The analysis produced several important insights, including:
+Duplicate Records: Identified and removed any duplicate entries in the dataset.
+Null Values: Detected null values and visualized them with a heatmap for clarity.
+House of Cards: Found the Show ID and director of "House of Cards."
+Peak Release Year: Identified the year with the highest number of releases, visualized with a bar graph.
+Total Count: Determined the total number of movies and TV shows in the dataset and presented it graphically.
+2000 Releases: Compiled a list of all movies released in the year 2000.
+Indian TV Shows: Listed the titles of all TV shows that were released solely in India.
+Top Directors: Highlighted the top 10 directors based on their contributions to Netflix content.
+Filtered Records: Showed records meeting specific criteria related to category and type.
+Tom Cruise Appearances: Counted the number of movies and shows featuring Tom Cruise.
+Netflix Ratings: Cataloged the various ratings defined by Netflix and analyzed specific rating occurrences.
+Maximum Duration: Determined the longest duration of any movie or show on the platform.
+Country Insights: Identified the individual country with the highest number of TV shows.
+Sorting Method: Explained how to sort the dataset by release year.
+Category Instances: Found instances based on specified category and type conditions.
+
+**Visualization Features**
+Data Integrity: Visualized duplicates and null values.
+Release Trends: A bar graph showing the number of releases by year.
+Genre Breakdown: A bar chart displaying the count of titles by genre.
+Top Directors: A visualization highlighting the contributions of the top directors.
+
+**Challenges Faced**
+Data Quality: Addressed issues related to duplicate and null values, which required thorough cleaning.
+Complex Insights: Ensuring that visualizations effectively communicated insights to stakeholders was a rewarding challenge.
+Link to Code: GitHub Repository
+
+
+2. **Fifa-19 Players-Data Analysis**
    Overview: This project focuses on analyzing the FIFA 19 players dataset to answer key questions related to player performance, demographics, and club affiliations. The dataset 
                    includes player attributes such as age, nationality, club, position, and skill ratings. Using SQL, I formulated and executed queries to extract insights, including 
                    identifying the top-rated players by position, analyzing age distribution among high-performing players, and exploring the correlation between player skills and their 
@@ -31,7 +89,7 @@ This portfolio includes the following projects:
 
    **Link to Code:**https://github.com/dev01072001/FIFA-19-Players-Analysis
 
-2. **Superstore Data Analysis using Tableau**
+3. **Superstore Data Analysis using Tableau**
    **Overview:** This project involves analyzing superstore sales data to uncover crucial insights for business development. Using Tableau, I created dynamic visualization dashboards 
                    and stories that highlight key performance indicators, trends, and opportunities for growth. The analysis aims to support strategic decision-making processes within 
                    the organization.
@@ -73,7 +131,9 @@ Complexity of Insights: Ensuring that visualizations communicated insights clear
 
  **Link to Code:**(https://github.com/dev01072001/Superstore-Data-Analysis)
 
-3. **Data Analytics and Visualization Job Simulation**
+ 
+
+4. **Data Analytics and Visualization Job Simulation**
    - **Overview:**
    - In this simulation,My work aimed to inform strategic decision-making for content development and optimization.which was achieved following these steps
    -  Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture.
@@ -99,7 +159,7 @@ Storytelling,
 Strategy &
 Teamwork
 
-4. **Tata Data Visualization: Empowering Business with Effective Insights**
+5. **Tata Data Visualization: Empowering Business with Effective Insights**
    
    **Overview:**
    In this simulation,My work aimed to inform strategic decision-making for content development and optimization.which was achieved following these steps
